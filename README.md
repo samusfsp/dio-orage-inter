@@ -1,4 +1,4 @@
-# alteração de proheto de criação de repositorio dio
+# alteração de projeto de criação de repositorio dio
 
 ## Esse projeto so foi reaproveitado para criação de novo repositorio
 ## no bootcamp da dio orange em parceria com o banco inter.
